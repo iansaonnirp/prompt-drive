@@ -3,7 +3,7 @@
 **Equipo:** Ian_Rodriguez_Pulido.  
 **Integrante:** Ian Saonni Rodríguez Pulido. **Cohorte:** COH2.  
 **Features entregadas:** `climate_panel`, `fog_lights`, `ambient_light`.  
-**Enlace al pull request:** pendiente de publicación.
+**Enlace al pull request:** https://github.com/ignacioalvmar/prompt-drive/pull/26
 
 ## Qué quería lograr
 

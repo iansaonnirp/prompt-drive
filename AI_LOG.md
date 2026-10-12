@@ -227,3 +227,11 @@ https://drive.google.com/file/d/1BvKci1K0tcKMqeN87mj7C3lh905Hqfpx/view?usp=shari
 El navegador de investigación no pudo abrir el enlace de Drive. La publicación
 utiliza el enlace que el autor identificó como público; Codex no afirma haber
 verificado la duración ni el contenido del video.
+
+PR de entrega abierto:
+https://github.com/ignacioalvmar/prompt-drive/pull/26
+
+GitHub confirma COH2, las tres funciones, el enlace al video y un diff de siete
+archivos. El PR apunta a main de ignacioalvmar/prompt-drive desde el fork de
+iansaonnirp; no es borrador. Los documentos se enlazan desde el PR y quedan
+en la rama documentacion/Ian_Rodriguez_Pulido del fork.
